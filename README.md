@@ -62,7 +62,7 @@
 <p>
   <h3 align="center">Support:</h3>
   <p>
-    <a href="https://www.buymeacoffee.com/miguejhota">
+    <a href="https://dev.to/miguejhota">
       <img align="center" src="https://dev.to/miguejhota/buttons/v2/default-C1FF72.png" height="50" width="210" alt="MigueJhota"/>
     </a>
   </p>
