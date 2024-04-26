@@ -96,6 +96,9 @@
 <br>
 
 -----
-Credits: [Josue Rojas Vega](https://github.com/JOSUERV99)
+<!-- CREDITS -->
+<hr>
+<p align="center">Credits: <a href="https://github.com/miguejhota">MigueJhota</a></p>
+<p align="center">Last Edited on: 26/04/2024</p>
+<hr>
 
-Last Edited on: 23/09/2021
