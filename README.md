@@ -31,29 +31,70 @@
 </p>
 
 
-<!-- LANGUAGES AND TOOLS -->
-<hr>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit_learn/scikit_learn-original.svg" alt="scikit-learn" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://keras.io/" target="_blank"> <img src="https://keras.io/img/logo-k-keras-wb.png" alt="Keras" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlalchemy/sqlalchemy-icon.svg" alt="SQLAlchemy" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/powerbi.svg" alt="Power BI" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.tableau.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tableau.svg" alt="Tableau" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pycharm.svg" alt="PyCharm" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://colab.research.google.com/" target="_blank"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>&nbsp;&nbsp;
+## My Skills
+
+- Programming languages:
+   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- Libraries;
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
+  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+  ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
+  ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+  ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
+- Data Engineering tools: 
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
+  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
+  ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=googlebigquery)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- BigData: 
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-333333?style=flat&logo=apache-hadoop)
+  ![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-333333?style=flat&logo=apache-hive)
+  ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apache-spark)
+- BI Analyst;
+  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
+- IDE & version control;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
+  ![colab](https://img.shields.io/badge/-colab-333333?style=flat&logo=colabbadge)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+- Cloud technologies;
+  ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
+ [Clevercloud]()
+
+
+
+  
+  
 </p>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Active Repos</b>
+<br>
+<p align="center">
+<br/>
+<br>
+
+
+<div align="left">
+
+
+ 
+
+
+
+
+
+<br/>
 
  
 
